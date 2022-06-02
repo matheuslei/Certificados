@@ -11,4 +11,6 @@ Microsoft Windows 7
 
 ![image](https://user-images.githubusercontent.com/65515537/167644409-659e1aa3-ff1d-4356-b125-0fad3a481212.png)
 
+Minicurso de Lógica de Programação com JavaScript
+![image](https://user-images.githubusercontent.com/65515537/171647145-ef84309c-eec5-4651-a1e0-872db5711f47.png)
 
