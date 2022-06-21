@@ -14,3 +14,6 @@ Microsoft Windows 7
 Minicurso de Lógica de Programação com JavaScript
 ![image](https://user-images.githubusercontent.com/65515537/171647145-ef84309c-eec5-4651-a1e0-872db5711f47.png)
 
+Trilha Conectar
+![image](https://user-images.githubusercontent.com/65515537/174865365-f366bb85-352d-40e0-864d-5ff3e14f8ee2.png)
+
