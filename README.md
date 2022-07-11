@@ -17,3 +17,5 @@ Minicurso de Lógica de Programação com JavaScript
 Trilha Conectar
 ![image](https://user-images.githubusercontent.com/65515537/174865365-f366bb85-352d-40e0-864d-5ff3e14f8ee2.png)
 
+Maratona Invertida - Kenzie
+![image](https://user-images.githubusercontent.com/65515537/178264229-7ac82bdf-b4a7-44b0-ae27-686c6d715f64.png)
