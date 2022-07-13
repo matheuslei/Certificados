@@ -19,3 +19,7 @@ Trilha Conectar
 
 Maratona Invertida - Kenzie
 ![image](https://user-images.githubusercontent.com/65515537/178264229-7ac82bdf-b4a7-44b0-ae27-686c6d715f64.png)
+
+Bootcamp Fullstack - IGTI
+
+![image](https://user-images.githubusercontent.com/65515537/178800077-d099568d-9163-42d1-a79d-29366cc9329b.png)
