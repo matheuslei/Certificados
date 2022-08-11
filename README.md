@@ -28,3 +28,8 @@ Javascript - OneBitCode
 
 ![image](https://user-images.githubusercontent.com/65515537/184150268-6d2d4339-cbda-490b-819a-4c13a585d14a.png)
 
+CSS - OneBitCode
+
+![image](https://user-images.githubusercontent.com/65515537/184156000-d552c41b-57e7-4d07-a3e9-05726cc8c546.png)
+
+
