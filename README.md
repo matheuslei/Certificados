@@ -23,3 +23,8 @@ Maratona Invertida - Kenzie
 Bootcamp Fullstack - IGTI
 
 ![image](https://user-images.githubusercontent.com/65515537/178800077-d099568d-9163-42d1-a79d-29366cc9329b.png)
+
+Javascript - OneBitCode
+
+![image](https://user-images.githubusercontent.com/65515537/184150268-6d2d4339-cbda-490b-819a-4c13a585d14a.png)
+
