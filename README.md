@@ -45,4 +45,7 @@ Imersão FrontExpert
 Certificado de participação MS-900: Fundamentos do Microsoft 365 - Green Tecnologia
 ![image](https://user-images.githubusercontent.com/65515537/197840721-38b8c734-f816-44cd-bc70-37f82ae4ef4b.png)
 
+Certificado de participação - Webinar: Desmistificando a Programação
+![image](https://user-images.githubusercontent.com/65515537/200610614-5e17f23e-e4fa-42f1-8658-3f20d99ad9db.png)
+
 
