@@ -1,5 +1,6 @@
 # Certificados
 Repositório para certificados
+Disponíveis no linkdin: https://www.linkedin.com/in/matheusleidev/details/certifications/
 
 Fundamentos de TI - Hardware e Software
 [Fundamentos de TI - Hardware e Software.pdf](https://github.com/matheuslei/Certificados/files/8662096/Fundamentos.de.TI.-.Hardware.e.Software.pdf)
