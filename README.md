@@ -1,4 +1,4 @@
-# Certificados
+[185150763ecc3bdcd45fc80caeb972700297.pdf](https://github.com/matheuslei/Certificados/files/14592146/185150763ecc3bdcd45fc80caeb972700297.pdf)# Certificados
 Repositório para certificados
 Disponíveis no linkdin: https://www.linkedin.com/in/matheusleidev/details/certifications/
 
@@ -55,5 +55,14 @@ Certificado de conclusão - LabMindset
 
 Certificado Programação Básica em Front-End [Certificado final - Matheus Leite de Castro.pdf](https://github.com/matheuslei/Certificados/files/10706793/Certificado.final.-.Matheus.Leite.de.Castro.pdf)
 ![Screenshot_708](https://user-images.githubusercontent.com/65515537/218079405-a6e19c75-2fce-4809-913d-d68a75b7af16.png)
+
+Certificado Python I - Introdução ao Python - OneBitCode
+![image](https://github.com/matheuslei/Certificados/assets/65515537/2c617b7b-6abd-447f-8364-cac836ff9806)
+[185150763ecc3bdcd45fc80caeb972700297.pdf](https://github.com/matheuslei/Certificados/files/14592148/185150763ecc3bdcd45fc80caeb972700297.pdf)
+
+Certificado Python II - Módulos e PIP - OneBitCode
+![image](https://github.com/matheuslei/Certificados/assets/65515537/cb25db0c-f774-485a-bcfc-b5310092853e)
+[18511c92be6193e838607516735e813f626d.pdf](https://github.com/matheuslei/Certificados/files/14592167/18511c92be6193e838607516735e813f626d.pdf)
+
 
 
